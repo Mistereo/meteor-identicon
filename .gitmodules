@@ -1,0 +1,3 @@
+[submodule "vendor/blockies"]
+	path = vendor/blockies
+	url = git@github.com:download13/blockies.git
